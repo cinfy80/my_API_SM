@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acf515d8-76b3-4f73-a540-cbdb59f44dca" name="更改" comment="" />
+    <list default="true" id="acf515d8-76b3-4f73-a540-cbdb59f44dca" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../Someet_API/apis/IM_01/api_00_preApply.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Someet_API/apis/login_00/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Someet_API/apis/login_00/api_00_registration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Someet_API/tests/01IM/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Someet_API/tests/01IM/preApply.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Someet_API/apis/api_00_registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Someet_API/apis/IM_01/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Someet_API/apis/api_01_login_phone_yzm.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Someet_API/apis/login_00/api_01_login_phone_yzm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Someet_API/apis/api_02_login_ByPhone.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Someet_API/apis/login_00/api_02_login_ByPhone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Someet_API/apis/api_03_fill_basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Someet_API/apis/login_00/api_03_fill_basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Someet_API/apis/api_04_fill_gx.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Someet_API/apis/login_00/api_04_fill_gx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Someet_API/apis/api_get_currentInfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Someet_API/apis/login_00/api_get_currentInfo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Someet_API/get-pip.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Someet_API/get-pip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Someet_API/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Someet_API/tests/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Someet_API/tests/test_00_login_flow.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Someet_API/tests/test_00_login_flow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Someet_API/tests/test_01_login_yzm.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Someet_API/tests/test_01_login_yzm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Someet_API/tests/test_02_login_by_phone.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Someet_API/tests/test_02_login_by_phone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Someet_API/tests/test_03_fll_basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Someet_API/tests/test_03_fll_basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Someet_API/tests/test_04_fill_gx.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Someet_API/tests/test_04_fill_gx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Someet_API/tests/test_05_getCurrentInfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Someet_API/tests/test_05_getCurrentInfo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Someet_API/utils/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Someet_API/utils/config.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +43,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Someet_API" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;cinfy80&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/cinfy80/My_api_sme.git&quot;,
+    &quot;accountId&quot;: &quot;9c00f76d-a2a1-48f6-bf2f-b86a9e932d73&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -28,47 +65,84 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python 测试.Python 测试 (test_04_fill_gx.py 内).executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.Python 测试 (test_fll_basic.py 内).executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.Python 测试 (test_login.py 内).executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.Python 测试 (test_login_by_phone.py 内).executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.Python 测试 (test_login_flow.py 内).executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.tests.test_04_fill_gx.test_fill_gx 的 Python 测试.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.tests.test_fll_basic.test_fill_basic_success 的 Python 测试.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.tests.test_login.test_login_success 的 Python 测试.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.tests.test_login_by_phone.test_login_success_by_phone 的 Python 测试.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.tests.test_login_flow.test_fill_basic_success 的 Python 测试.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.tests.test_login_flow.test_login_by_phone 的 Python 测试.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.tests.test_login_flow.test_login_success 的 Python 测试.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.tests.test_login_flow.test_token_fixture 的 Python 测试.executor&quot;: &quot;Run&quot;,
-    &quot;Python.config.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conftest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.countdown_bar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.login_api_ByPhone.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python 测试.Python 测试 (test_04_fill_gx.py 内).executor": "Run",
+    "Python 测试.Python 测试 (test_fll_basic.py 内).executor": "Run",
+    "Python 测试.Python 测试 (test_login.py 内).executor": "Run",
+    "Python 测试.Python 测试 (test_login_by_phone.py 内).executor": "Run",
+    "Python 测试.Python 测试 (test_login_flow.py 内).executor": "Run",
+    "Python 测试.preApply.test_success_preApply 的 pytest.executor": "Run",
+    "Python 测试.pytest (test_00_login_flow.py 内).executor": "Run",
+    "Python 测试.pytest (test_01_login_yzm.py 内).executor": "Run",
+    "Python 测试.tests.test_00_login_flow.test_fill_basic_success 的 Python 测试.executor": "Run",
+    "Python 测试.tests.test_00_login_flow.test_fill_basic_success 的 pytest.executor": "Run",
+    "Python 测试.tests.test_00_login_flow.test_index 的 pytest.executor": "Run",
+    "Python 测试.tests.test_02_login_by_phone.test_login_success_by_phone 的 pytest.executor": "Run",
+    "Python 测试.tests.test_03_fll_basic.test_fill_basic_api 的 pytest.executor": "Run",
+    "Python 测试.tests.test_03_fll_basic.test_fill_basic_success 的 pytest.executor": "Run",
+    "Python 测试.tests.test_04_fill_gx.test_fill_gx 的 Python 测试.executor": "Run",
+    "Python 测试.tests.test_fll_basic.test_fill_basic_success 的 Python 测试.executor": "Run",
+    "Python 测试.tests.test_login.test_login_success 的 Python 测试.executor": "Run",
+    "Python 测试.tests.test_login_by_phone.test_login_success_by_phone 的 Python 测试.executor": "Run",
+    "Python 测试.tests.test_login_flow.test_fill_basic_success 的 Python 测试.executor": "Run",
+    "Python 测试.tests.test_login_flow.test_login_by_phone 的 Python 测试.executor": "Run",
+    "Python 测试.tests.test_login_flow.test_login_success 的 Python 测试.executor": "Run",
+    "Python 测试.tests.test_login_flow.test_token_fixture 的 Python 测试.executor": "Run",
+    "Python.config.executor": "Run",
+    "Python.conftest.executor": "Run",
+    "Python.countdown_bar.executor": "Run",
+    "Python.feishuBoot.executor": "Run",
+    "Python.get-pip.executor": "Run",
+    "Python.login_api_ByPhone.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/admin/Desktop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\Desktop" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Someet_API\apis\login" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python 测试.Python 测试 (test_04_fill_gx.py 内)">
+  <component name="RunManager" selected="Python 测试.tests.test_00_login_flow.test_token_fixture 的 pytest">
+    <configuration name="feishuBoot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Someet_API" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Someet_API/webhoop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Someet_API/webhoop/feishuBoot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Someet_API" />
       <option name="ENV_FILES" value="" />
@@ -92,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python 测试 (test_03_fll_basic.py 内)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="preApply.test_success_preApply 的 pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Someet_API" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,44 +177,14 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/../Someet_API/tests/test_03_fll_basic.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python 测试 (test_04_fill_gx.py 内)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Someet_API" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Someet_API" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/../Someet_API/tests/test_04_fill_gx.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tests.test_00_login_flow.test_fill_basic_success 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Someet_API" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Someet_API" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;tests.test_00_login_flow.test_fill_basic_success&quot;" />
+      <option name="_new_target" value="&quot;preApply.test_success_preApply&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="tests.test_03_fll_basic.test_fill_basic_success 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="tests.test_00_login_flow.test_token_fixture 的 pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Someet_API" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,12 +195,14 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;tests.test_03_fll_basic.test_fill_basic_success&quot;" />
+      <option name="_new_target" value="&quot;tests.test_00_login_flow.test_token_fixture&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="tests.test_04_fill_gx.test_fill_gx 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="tests.test_01_login_yzm.test_login_success 的 pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Someet_API" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,18 +213,38 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;tests.test_04_fill_gx.test_fill_gx&quot;" />
+      <option name="_new_target" value="&quot;tests.test_01_login_yzm.test_login_success&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests.test_02_login_by_phone.test_login_success_by_phone 的 pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Someet_API" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Someet_API" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_02_login_by_phone.test_login_success_by_phone&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python 测试.tests.test_04_fill_gx.test_fill_gx 的 Python 测试" />
-        <item itemvalue="Python 测试.Python 测试 (test_04_fill_gx.py 内)" />
-        <item itemvalue="Python 测试.tests.test_03_fll_basic.test_fill_basic_success 的 Python 测试" />
-        <item itemvalue="Python 测试.Python 测试 (test_03_fll_basic.py 内)" />
-        <item itemvalue="Python 测试.tests.test_00_login_flow.test_fill_basic_success 的 Python 测试" />
+        <item itemvalue="Python 测试.tests.test_00_login_flow.test_token_fixture 的 pytest" />
+        <item itemvalue="Python 测试.tests.test_01_login_yzm.test_login_success 的 pytest" />
+        <item itemvalue="Python 测试.tests.test_02_login_by_phone.test_login_success_by_phone 的 pytest" />
+        <item itemvalue="Python 测试.preApply.test_success_preApply 的 pytest" />
+        <item itemvalue="Python.feishuBoot" />
       </list>
     </recent_temporary>
   </component>
@@ -204,12 +270,20 @@
       <workItem from="1761805198431" duration="22155000" />
       <workItem from="1762144638969" duration="753000" />
       <workItem from="1762145407591" duration="566000" />
-      <workItem from="1762146092139" duration="571000" />
+      <workItem from="1762146092139" duration="1458000" />
+      <workItem from="1762147572077" duration="10390000" />
+      <workItem from="1762221112415" duration="1242000" />
+      <workItem from="1762241416624" duration="15132000" />
+      <workItem from="1762498565419" duration="631000" />
+      <workItem from="1762754968203" duration="3743000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.tgz" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -221,7 +295,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/../Someet_API/tests/test_00_login_flow.py</url>
-          <line>31</line>
+          <line>28</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -229,14 +303,32 @@
           <line>8</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Someet_API/tests/test_03_fll_basic.py</url>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Someet_API/webhoop/feishuBoot.py</url>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PyCharmMiscProject$.coverage" NAME=" 覆盖结果" MODIFIED="1762144499633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$.coverage" NAME=" 覆盖结果" MODIFIED="1762317414826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Someet_API" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$feishuBoot.coverage" NAME="feishuBoot 覆盖结果" MODIFIED="1762755214374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Someet_API/webhoop" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$tests_test_00_login_flow_test_fill_basic_success__pytest.coverage" NAME="tests.test_00_login_flow.test_fill_basic_success 的 pytest 覆盖结果" MODIFIED="1762334586136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Someet_API" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$pytest__test_00_login_flow_py__.coverage" NAME="pytest (test_00_login_flow.py 内) 覆盖结果" MODIFIED="1762320603944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Someet_API" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$preApply_test_success_preApply__pytest.coverage" NAME="preApply.test_success_preApply 的 pytest 覆盖结果" MODIFIED="1762768149612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Someet_API" />
     <SUITE FILE_PATH="coverage/PyCharmMiscProject$config.coverage" NAME="config 覆盖结果" MODIFIED="1761908141508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/PyCharmMiscProject$countdown_bar.coverage" NAME="countdown_bar 覆盖结果" MODIFIED="1761642685752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Desktop" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$tests_test_03_fll_basic_test_fill_basic_api__pytest.coverage" NAME="tests.test_03_fll_basic.test_fill_basic_api 的 pytest 覆盖结果" MODIFIED="1762317758566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Someet_API" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$tests_test_00_login_flow_test_index__pytest.coverage" NAME="tests.test_00_login_flow.test_index 的 pytest 覆盖结果" MODIFIED="1762334566998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Someet_API" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$tests_test_03_fll_basic_test_fill_basic_success__pytest.coverage" NAME="tests.test_03_fll_basic.test_fill_basic_success 的 pytest 覆盖结果" MODIFIED="1762334548932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Someet_API" />
     <SUITE FILE_PATH="coverage/PyCharmMiscProject$login_api_ByPhone.coverage" NAME="login_api_ByPhone 覆盖结果" MODIFIED="1761903371070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apis" />
-    <SUITE FILE_PATH="coverage/PyCharmMiscProject$conftest.coverage" NAME="conftest 覆盖结果" MODIFIED="1762133322639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$pytest__test_01_login_yzm_py__.coverage" NAME="pytest (test_01_login_yzm.py 内) 覆盖结果" MODIFIED="1762319948354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Someet_API" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$conftest.coverage" NAME="conftest 覆盖结果" MODIFIED="1762159350497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Someet_API/tests" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$tests_test_02_login_by_phone_test_login_success_by_phone__pytest.coverage" NAME="tests.test_02_login_by_phone.test_login_success_by_phone 的 pytest 覆盖结果" MODIFIED="1762334540504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Someet_API" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$get_pip.coverage" NAME="get-pip 覆盖结果" MODIFIED="1762755112940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Someet_API" />
   </component>
 </project>
